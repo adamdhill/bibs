@@ -5,7 +5,7 @@
 * Keywords: governance; regulation; nudge; coercion; blame; law
 
 
-## Disbib
+## [Disbib](https://github.com/adamdhill/bibs/blob/master/Bibliography.bib)
 
 * Date: 12-15-2016
 
